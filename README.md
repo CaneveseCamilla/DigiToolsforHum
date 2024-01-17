@@ -1,2 +1,2 @@
 # DigiToolsforHum
-Data for class
+Data for _Digital Tools for the Humanities_ class
